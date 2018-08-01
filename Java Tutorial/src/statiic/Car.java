@@ -4,7 +4,7 @@ public class Car {
 	
 	String name;
 	int wheels;
-	static int id;
+	static int id = 5;
 	
 
 	public Car(String name, int wheels){
