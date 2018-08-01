@@ -24,7 +24,11 @@ public class link<E> {
 		this.data = data;
 	}
 	
-	public Node<e> getNewLink(link<E> new )
-	
-	
+	public link<E> getNewLink(){
+		return newLink;
+	}
+	public void setNewLink(link<E> newLink){
+		
+		this.newLink = newLink;
+	}
 }
