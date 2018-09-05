@@ -6,7 +6,7 @@ public class loop {
 		// TODO Auto-generated method stub
 		
 		for(int i=0;i<3;i++){
-			//System.out.println(i);
+			System.out.println(i);
 			for(int j=0;j<2;j++){
 				System.out.print(j);			
 			}
