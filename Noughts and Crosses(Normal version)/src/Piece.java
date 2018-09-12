@@ -19,7 +19,7 @@ public class Piece {
 		}
 		else{
 			return "X";
-		}
+		} 
 	}
 	
 	
